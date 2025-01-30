@@ -1,0 +1,14 @@
+Package: coauthoR
+Title: A R Package for Formatting a List of Authors
+Version: 0.0.1
+Authors@R: 
+    person("Keita", "Fukasawa", "@kfukasawa37" , "k.fukasawa37@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-9563-457X"))
+Description: This package contains functions for converting a table of coauthors, affiliations/addresses, email addresses and ORCID to a formatted string of coauthors.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
