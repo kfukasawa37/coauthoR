@@ -1,6 +1,6 @@
 Package: coauthoR
 Title: A R Package for Formatting a List of Authors
-Version: 0.0.1
+Version: 1.0.0
 Authors@R: 
     person("Keita", "Fukasawa", "@kfukasawa37" , "k.fukasawa37@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-9563-457X"))
