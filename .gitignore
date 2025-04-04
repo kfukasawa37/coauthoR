@@ -8,7 +8,7 @@
 
 # User-specific files
 .Ruserdata
-.txt
+*.txt
 
 # Example code in package build process
 *-Ex.R
@@ -21,6 +21,9 @@
 
 # RStudio files
 .Rproj.user/
+
+#development
+/development/*
 
 # produced vignettes
 vignettes/*.html
